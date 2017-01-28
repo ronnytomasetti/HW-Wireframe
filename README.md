@@ -2,7 +2,8 @@
 Week One - Wireframe Homework Assignment
 
 ## Overview
-Simple html layout using css. First homework assignment completed at UCF Coding Bootcamp.
+First homework assignment completed at UCF Coding Bootcamp. Simple html layout using css.
+
 Nothing really cool to see here.
 
 ಠ_ಠ
